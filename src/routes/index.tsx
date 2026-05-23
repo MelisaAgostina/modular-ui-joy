@@ -35,7 +35,7 @@ function Index() {
         <img
           src={logo}
           alt="SiftPipe logo"
-          className="mb-10 h-64 w-auto select-none invert dark:invert-0"
+          className="mb-4 h-64 w-auto select-none invert dark:invert-0"
           draggable={false}
         />
 
