@@ -25,4 +25,3 @@ export function SecPipelineApp() {
     </div>
   );
 }
-*** End Patch

@@ -8,4 +8,3 @@ export function Callout({ children }: { children: React.ReactNode }) {
     </div>
   );
 }
-*** End Patch

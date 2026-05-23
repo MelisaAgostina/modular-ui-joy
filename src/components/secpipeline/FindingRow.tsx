@@ -12,4 +12,3 @@ export function FindingRow({ finding }: { finding: Finding }) {
     </div>
   );
 }
-*** End Patch

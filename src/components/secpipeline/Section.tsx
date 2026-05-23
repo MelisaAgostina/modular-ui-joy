@@ -17,4 +17,3 @@ export function Section({ section }: { section: SectionT }) {
     </section>
   );
 }
-*** End Patch

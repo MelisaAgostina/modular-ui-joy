@@ -23,4 +23,3 @@ export function Tabs({ value, onChange }: { value: TabId; onChange: (v: TabId) =
     </div>
   );
 }
-*** End Patch

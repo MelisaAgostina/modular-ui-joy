@@ -53,4 +53,3 @@ export function Sidebar() {
     </aside>
   );
 }
-*** End Patch

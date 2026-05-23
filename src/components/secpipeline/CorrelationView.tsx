@@ -51,4 +51,3 @@ export function CorrelationView() {
     </div>
   );
 }
-*** End Patch

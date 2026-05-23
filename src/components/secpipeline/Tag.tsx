@@ -20,4 +20,3 @@ export function Tag({ tag }: { tag: Finding["tag"] }) {
     </span>
   );
 }
-*** End Patch

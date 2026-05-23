@@ -28,4 +28,3 @@ export function LogsView() {
     </div>
   );
 }
-*** End Patch
