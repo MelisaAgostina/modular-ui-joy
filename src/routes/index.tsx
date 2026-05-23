@@ -35,7 +35,7 @@ function Index() {
         <img
           src={logo}
           alt="SiftPipe logo"
-          className="mb-10 h-32 w-auto select-none invert dark:invert-0"
+          className="mb-10 h-64 w-auto select-none invert dark:invert-0"
           draggable={false}
         />
 
@@ -63,20 +63,6 @@ function Index() {
           </Link>
         </div>
 
-        <div className="mt-16 grid w-full grid-cols-1 gap-px overflow-hidden rounded-lg border border-border bg-border sm:grid-cols-3">
-          {[
-            { k: "9/9", v: "confirmed findings" },
-            { k: "0", v: "false positives" },
-            { k: "55 min", v: "end-to-end run" },
-          ].map((s) => (
-            <div key={s.v} className="bg-background px-4 py-5">
-              <div className="text-xl font-semibold text-foreground">{s.k}</div>
-              <div className="mt-1 text-xs uppercase tracking-wider text-muted-foreground">
-                {s.v}
-              </div>
-            </div>
-          ))}
-        </div>
       </section>
 
       <footer className="relative z-10 mt-16 text-xs text-muted-foreground">
